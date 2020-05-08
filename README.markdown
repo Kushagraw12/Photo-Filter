@@ -1,5 +1,5 @@
-# Mini Project
+It was originally created on Code Pen and then editted on VS Code locally.
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/dk12/pen/LYVovYK](https://codepen.io/dk12/pen/LYVovYK).
+
 
 
