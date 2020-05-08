@@ -1,22 +1,39 @@
 body{
-  text-align: center;
+  background-color: rgb(25, 189, 197);
 }
+
 canvas{
-  border: 8px ridge #cccccc;
+  border: 8px ridge #333;
   width: 800px;
   height: 400px;
+  margin-left: 350px;
 }
+
  h1{
+  margin-left: 580px;
   font-family: "Courier New";
   font-size: 40pt;
   border: 3px solid #000000;
-  width: 400px; 
-  text-align: center;
+  width: 300px; 
 }
+
 h2{
   font-size: 25pt;
+  margin-left: 580px;
 }
-div{
+
+#d{
   font-size: 20pt;
   font-family: "Courier New";
+  margin-left: 580px;
+}
+
+.b-c{
+  margin-left: 580px;
+}
+
+.clr{
+  width:200px;
+  text-align: center;
+  text-decoration: solid;
 }
